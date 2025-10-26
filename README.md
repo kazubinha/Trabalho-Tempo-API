@@ -5,9 +5,11 @@
     Projeto feito para ser simples e direto, apresentando interface intuitiva, dados claros e facilidade na hora da busca.
 
 ## Como usar
-1. Escreva o nome da cidade que deseja procurar a situação climática;
-2. veja em tempo real a situação em que ela se encontra;
-3. *Caso as informações não estejam precisas busque modificar a busca, por exemplo colocando o páis ou o estado da cidade separado por uma vírgula, por exemplo "Rio Grande, BR" ou "Manaus, AM";*
+1. Baixe os arquivos desse repositório e abra-o no Visual Code ou aplicativos semelhantes
+2. ao selecionar a pasta do repositório execute o "npm install"
+3. Escreva o nome da cidade que deseja procurar a situação climática;
+4. veja em tempo real a situação em que ela se encontra;
+5. *Caso as informações não estejam precisas busque modificar a busca, por exemplo colocando o páis ou o estado da cidade separado por uma vírgula, por exemplo "Rio Grande, BR" ou "Manaus, AM";*
 
 ## Ferramentas Utilizadas
 O projeto utilizou das seguintes ferramentas:
